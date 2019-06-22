@@ -12,8 +12,11 @@ publicado 1.0
 cambio menor
 v2 cambio 1
 v2 cambio 2
+v2 cambio 3
+v2 cambio 4
 publicado 1.0.1
 correccion bug 
 publicado 1.0.2
 v3 cambio 1
 v3 cambio 2
+publicado 1.0.3
