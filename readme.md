@@ -10,3 +10,5 @@ desde master
 desde experimientogit
 publicado 1.0
 cambio menor
+v2 cambio 1
+v2 cambio 2
