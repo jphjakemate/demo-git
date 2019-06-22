@@ -12,3 +12,6 @@ publicado 1.0
 cambio menor
 v2 cambio 1
 v2 cambio 2
+publicado 1.0.1
+v2 cambio 3
+v2 cambio 4
