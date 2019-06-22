@@ -16,3 +16,4 @@ publicado 1.0.1
 correccion bug 
 publicado 1.0.2
 v3 cambio 1
+v3 cambio 2
